@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lijp16
 - 👀 I’m interested in GIS,RS
-- 🌱 I’m currently learning Pytorch
 - 📫 How to reach me :lijunpeng16@gmail.com
 
 <!---
